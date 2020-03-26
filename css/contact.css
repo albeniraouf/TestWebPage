@@ -1,0 +1,33 @@
+.navi{
+  height: 150px;
+  text-align: center;
+  margin-top: 130px;
+  list-style: none;
+}
+
+.lis {
+  background: #fff;
+  border-radius: 125px;
+  margin-left: 50px;
+}
+.lis:hover{
+  background: #ccc;
+}
+.b {
+  width: 50px;
+  height: 100px;
+  top:-20px;
+  font-size: 30px;
+  font-family: "mine";
+  color: #fff;
+  text-decoration: none;
+}
+.b:hover {
+  border-bottom: solid;
+  border-top: solid;
+  border-right: hidden;
+  border-left: hidden;
+}
+.b:visited{
+  color: #fff;
+}
